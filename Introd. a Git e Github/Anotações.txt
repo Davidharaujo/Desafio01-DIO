@@ -1,0 +1,10 @@
+Link para download:
+https://git-scm.com/downloads
+
+Comandos uteis:
+git init
+git add .
+git clone
+git status
+git commit -m ''
+git push
